@@ -10,7 +10,7 @@ Open the directory in VS Code and launch it using Live Server extension.
 
 ## Project setup
 
-- SASS: used with VS Code Live Sass extension. I used this as I am quiet familiar working with Sass and I feel like it speeds up much development. Also like having variables and mixins
+- SASS: used with VS Code Watch Sass extension. I used this as I am quiet familiar working with Sass and I feel like it speeds up much development. Also like having variables and mixins
 
 - Bootstrap: I am a big fan of Bootstrap because of the components they provide. It speeds the development. It also provides various out of the box styles which can make the intial site look great. Also they provide various utility classes and grids which helps me with responsiveness.
 
